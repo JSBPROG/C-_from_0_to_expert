@@ -1,0 +1,1 @@
+Este ejercicio consta de encontrar el mayor número de 3 introducidos por consola. Hay que seguir las mejores prácticas, clean code y SOLID.
